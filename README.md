@@ -44,4 +44,4 @@ This app is built using **Android** and follows a modular approach for easy inte
 ### **Clone the Repository**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/tyfuser/simplified-version-of-the-Douyin-TikTok-post-submission-page.git
